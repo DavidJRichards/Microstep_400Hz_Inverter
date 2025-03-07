@@ -11,4 +11,6 @@ As in Michel's example I use 51.2 kHz as clock to output 400Hz waveform into a t
 
 ![Overview](./Documents/Overview.jpg)
 
+[3DM580S User Manual](./Documents/3DM580S User Manual.pdf)
+
 ![Wiring](./Documents/Wiring.jpg)
